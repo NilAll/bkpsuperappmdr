@@ -1,0 +1,367 @@
+{
+  "comercio": {
+    "title": "Comércio",
+    "image": "https://placehold.co/300x375/9b59b6/ffffff?text=Comércio",
+    "subcategories": {
+      "supermercados": {
+        "title": "Supermercados",
+        "listings": [
+          {
+            "id": 1,
+            "name": "Supermercado Central",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Supermercado+1",
+            "description": "O maior e mais completo da região.",
+            "phone": "5591989213312",
+            "extraFields": [
+              {
+                "label": "Oferta do Dia",
+                "value": "Arroz 5kg por R$ 19,90"
+              }
+            ]
+          }
+        ]
+      },
+      "farmacias": {
+        "title": "Farmácias",
+        "listings": [
+          {
+            "id": 2,
+            "name": "Farmácia Popular",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Farmácia+1",
+            "description": "Medicamentos com os melhores preços.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "lojasDeRoupas": {
+        "title": "Lojas de Roupas",
+        "listings": [
+          {
+            "id": 3,
+            "name": "Estilo Modas",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Loja+de+Roupa",
+            "description": "Moda feminina e masculina.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "padarias": {
+        "title": "Padarias",
+        "listings": [
+          {
+            "id": 4,
+            "name": "Pão Dourado",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Padaria",
+            "description": "Pães frescos, bolos e salgados.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "acougues": {
+        "title": "Açougues",
+        "listings": [
+          {
+            "id": 5,
+            "name": "Corte Nobre",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Açougue",
+            "description": "Carnes de primeira qualidade.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "materialDeConstrucao": {
+        "title": "Material de Construção",
+        "listings": [
+          {
+            "id": 6,
+            "name": "Constrular",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Construção",
+            "description": "Tudo para sua obra.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "classificados": {
+    "title": "Classificados",
+    "image": "https://placehold.co/300x375/3498db/ffffff?text=Classificados",
+    "subcategories": {
+      "celulares": {
+        "title": "Celulares",
+        "listings": [
+          {
+            "id": 7,
+            "name": "iPhone 15 Usado",
+            "image": "https://placehold.co/600x400/3498db/ffffff?text=Celular+1",
+            "description": "Em ótimo estado, 128GB.",
+            "phone": "5591989213312",
+            "extraFields": [
+              {
+                "label": "Preço",
+                "value": "R$ 3.500,00"
+              }
+            ]
+          }
+        ]
+      },
+      "motos": {
+        "title": "Motos",
+        "listings": [
+          {
+            "id": 8,
+            "name": "Honda Biz 2022",
+            "image": "https://placehold.co/600x400/3498db/ffffff?text=Moto+1",
+            "description": "Pouco rodada, único dono.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "carros": {
+        "title": "Carros",
+        "listings": [
+          {
+            "id": 9,
+            "name": "Fiat Uno 2018",
+            "image": "https://placehold.co/600x400/3498db/ffffff?text=Carro+1",
+            "description": "Completo, com ar e direção.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "profissionais": {
+    "title": "Profissionais",
+    "image": "https://placehold.co/300x375/2ecc71/ffffff?text=Profissionais",
+    "subcategories": {
+      "pedreiros": {
+        "title": "Pedreiros",
+        "listings": [
+          {
+            "id": 10,
+            "name": "João da Construção",
+            "image": "https://placehold.co/600x400/2ecc71/ffffff?text=Pedreiro+1",
+            "description": "Serviços de alvenaria e reforma.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "carpinteiros": {
+        "title": "Carpinteiros",
+        "listings": [
+          {
+            "id": 11,
+            "name": "José das Madeiras",
+            "image": "https://placehold.co/600x400/2ecc71/ffffff?text=Carpinteiro+1",
+            "description": "Móveis planejados e telhados.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "eletricistas": {
+        "title": "Eletricistas",
+        "listings": [
+          {
+            "id": 12,
+            "name": "Carlos Luz",
+            "image": "https://placehold.co/600x400/2ecc71/ffffff?text=Eletricista+1",
+            "description": "Instalações elétricas residenciais.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "delivery": {
+    "title": "Delivery",
+    "image": "https://placehold.co/300x375/e74c3c/ffffff?text=Delivery",
+    "subcategories": {
+      "pizzarias": {
+        "title": "Pizzarias",
+        "listings": [
+          {
+            "id": 13,
+            "name": "Pizza Nostra",
+            "image": "https://placehold.co/600x400/e74c3c/ffffff?text=Pizza+1",
+            "description": "A melhor pizza da cidade.",
+            "phone": "5591989213312",
+            "isDelivery": true,
+            "pixInfo": "Chave PIX: 91989213312 (Celular)",
+            "products": [
+              {
+                "id": 101,
+                "name": "Pizza Calabresa",
+                "description": "Molho de tomate, calabresa fatiada, cebola e azeitonas.",
+                "price": 45,
+                "image": "https://placehold.co/100/e74c3c/ffffff?text=Calabresa"
+              },
+              {
+                "id": 102,
+                "name": "Pizza Marguerita",
+                "description": "Molho, mussarela, tomate em rodelas e manjericão fresco.",
+                "price": 42,
+                "image": "https://placehold.co/100/e74c3c/ffffff?text=Marguerita"
+              },
+              {
+                "id": 103,
+                "name": "Pizza Portuguesa",
+                "description": "Ovos, presunto, ervilha, cebola e mussarela.",
+                "price": 50,
+                "image": "https://placehold.co/100/e74c3c/ffffff?text=Portuguesa"
+              },
+              {
+                "id": 104,
+                "name": "Refrigerante 2L",
+                "description": "Coca-Cola, Guaraná ou Fanta.",
+                "price": 10,
+                "image": "https://placehold.co/100/e74c3c/ffffff?text=Refri"
+              }
+            ]
+          }
+        ]
+      },
+      "acai": {
+        "title": "Açaí",
+        "listings": [
+          {
+            "id": 14,
+            "name": "Açaí Power",
+            "image": "https://placehold.co/600x400/e74c3c/ffffff?text=Açaí+1",
+            "description": "Açaí, cupuaçu e cremes.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "eventos": {
+    "title": "Eventos",
+    "image": "https://placehold.co/300x375/f1c40f/ffffff?text=Eventos",
+    "subcategories": {
+      "festivais": {
+        "title": "Festivais",
+        "listings": [
+          {
+            "id": 15,
+            "name": "Festival de Verão",
+            "image": "https://placehold.co/600x400/f1c40f/ffffff?text=Festival+1",
+            "description": "Shows com artistas nacionais.",
+            "phone": "5591989213312",
+            "extraFields": [
+              {
+                "label": "Data",
+                "value": "15/01/2026"
+              },
+              {
+                "label": "Cronômetro",
+                "value": "2026-01-15T20:00"
+              }
+            ]
+          }
+        ]
+      },
+      "festas": {
+        "title": "Festas",
+        "listings": [
+          {
+            "id": 16,
+            "name": "Festa da Padroeira",
+            "image": "https://placehold.co/600x400/f1c40f/ffffff?text=Festa+1",
+            "description": "Evento tradicional com barracas.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "cavalgadas": {
+        "title": "Cavalgadas",
+        "listings": [
+          {
+            "id": 17,
+            "name": "Cavalgada dos Amigos",
+            "image": "https://placehold.co/600x400/f1c40f/ffffff?text=Cavalgada+1",
+            "description": "Passeio pelas trilhas da região.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "publicos": {
+    "title": "Serviços Públicos",
+    "image": "https://placehold.co/300x375/e67e22/ffffff?text=Públicos",
+    "subcategories": {
+      "prefeitura": {
+        "title": "Prefeitura",
+        "sectors": {
+          "gabinete": {
+            "title": "Gabinete do Prefeito",
+            "listings": [
+              {
+                "id": 18,
+                "name": "Paço Municipal",
+                "image": "https://placehold.co/600x400/e67e22/ffffff?text=Prefeitura",
+                "description": "Sede administrativa do município.",
+                "phone": "5591989213312"
+              }
+            ]
+          },
+          "administracao": {
+            "title": "Sec. de Administração",
+            "listings": [
+              {
+                "id": 21,
+                "name": "Centro Administrativo",
+                "image": "https://placehold.co/600x400/e67e22/ffffff?text=Admin",
+                "description": "Recursos humanos e licitações.",
+                "phone": "5591989213312"
+              }
+            ]
+          }
+        }
+      },
+      "saude": {
+        "title": "Saúde",
+        "listings": [
+          {
+            "id": 19,
+            "name": "Posto de Saúde Central",
+            "image": "https://placehold.co/600x400/e67e22/ffffff?text=Saúde",
+            "description": "Atendimento médico e vacinação.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "obras": {
+        "title": "Obras",
+        "listings": [
+          {
+            "id": 20,
+            "name": "Secretaria de Obras",
+            "image": "https://placehold.co/600x400/e67e22/ffffff?text=Obras",
+            "description": "Informações sobre obras na cidade.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "ads": [
+    {
+      "id": 1,
+      "image": "https://placehold.co/600x200/9b59b6/ffffff?text=Supermercado+Central",
+      "link": "comercio/supermercados/null/1"
+    },
+    {
+      "id": 1759433051145.4712,
+      "image": "data:image/jpeg;base64,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",
+      "link": "classificados/motos/null/8"
+    }
+  ],
+  "version": "1.2",
+  "appSettings": {
+    "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkoXyijJYcIYFA5g1bzSpWH-zPPmbu_EM76xGjT5o7Q2Oj-oBho_o_H_6odFSLyFVuEIYoB4bHAa4Ui2qVWsayJlR9EKRHMqNpKEw4mDbF2mmi_9Fvd8wgUmx67M_idUTe6GRQEqwqm092OSNx-ZLbhnuewtlvV3W58A2PjnCJ-4XinpHR1dmCmEdZqFqU/s571/superappmdrB_logo.png",
+    "logoSize": "8",
+    "dataUrl": "https://gist.githubusercontent.com/NilAll/1c626219b33a76b88b6f7226f0b48450/raw/super-app-data.json"
+  }
+}
