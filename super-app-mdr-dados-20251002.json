@@ -1,0 +1,362 @@
+{
+  "comercio": {
+    "title": "Comércio",
+    "image": "https://placehold.co/300x375/9b59b6/ffffff?text=Comércio",
+    "subcategories": {
+      "supermercados": {
+        "title": "Supermercados",
+        "listings": [
+          {
+            "id": 1,
+            "name": "Supermercado Central",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Supermercado+1",
+            "description": "O maior e mais completo da região.",
+            "phone": "5591989213312",
+            "extraFields": [
+              {
+                "label": "Oferta do Dia",
+                "value": "Arroz 5kg por R$ 19,90"
+              }
+            ]
+          }
+        ]
+      },
+      "farmacias": {
+        "title": "Farmácias",
+        "listings": [
+          {
+            "id": 2,
+            "name": "Farmácia Popular",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Farmácia+1",
+            "description": "Medicamentos com os melhores preços.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "lojasDeRoupas": {
+        "title": "Lojas de Roupas",
+        "listings": [
+          {
+            "id": 3,
+            "name": "Estilo Modas",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Loja+de+Roupa",
+            "description": "Moda feminina e masculina.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "padarias": {
+        "title": "Padarias",
+        "listings": [
+          {
+            "id": 4,
+            "name": "Pão Dourado",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Padaria",
+            "description": "Pães frescos, bolos e salgados.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "acougues": {
+        "title": "Açougues",
+        "listings": [
+          {
+            "id": 5,
+            "name": "Corte Nobre",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Açougue",
+            "description": "Carnes de primeira qualidade.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "materialDeConstrucao": {
+        "title": "Material de Construção",
+        "listings": [
+          {
+            "id": 6,
+            "name": "Constrular",
+            "image": "https://placehold.co/600x400/9b59b6/ffffff?text=Construção",
+            "description": "Tudo para sua obra.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "classificados": {
+    "title": "Classificados",
+    "image": "https://placehold.co/300x375/3498db/ffffff?text=Classificados",
+    "subcategories": {
+      "celulares": {
+        "title": "Celulares",
+        "listings": [
+          {
+            "id": 7,
+            "name": "iPhone 15 Usado",
+            "image": "https://placehold.co/600x400/3498db/ffffff?text=Celular+1",
+            "description": "Em ótimo estado, 128GB.",
+            "phone": "5591989213312",
+            "extraFields": [
+              {
+                "label": "Preço",
+                "value": "R$ 3.500,00"
+              }
+            ]
+          }
+        ]
+      },
+      "motos": {
+        "title": "Motos",
+        "listings": [
+          {
+            "id": 8,
+            "name": "Honda Biz 2022",
+            "image": "https://placehold.co/600x400/3498db/ffffff?text=Moto+1",
+            "description": "Pouco rodada, único dono.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "carros": {
+        "title": "Carros",
+        "listings": [
+          {
+            "id": 9,
+            "name": "Fiat Uno 2018",
+            "image": "https://placehold.co/600x400/3498db/ffffff?text=Carro+1",
+            "description": "Completo, com ar e direção.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "profissionais": {
+    "title": "Profissionais",
+    "image": "https://placehold.co/300x375/2ecc71/ffffff?text=Profissionais",
+    "subcategories": {
+      "pedreiros": {
+        "title": "Pedreiros",
+        "listings": [
+          {
+            "id": 10,
+            "name": "João da Construção",
+            "image": "https://placehold.co/600x400/2ecc71/ffffff?text=Pedreiro+1",
+            "description": "Serviços de alvenaria e reforma.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "carpinteiros": {
+        "title": "Carpinteiros",
+        "listings": [
+          {
+            "id": 11,
+            "name": "José das Madeiras",
+            "image": "https://placehold.co/600x400/2ecc71/ffffff?text=Carpinteiro+1",
+            "description": "Móveis planejados e telhados.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "eletricistas": {
+        "title": "Eletricistas",
+        "listings": [
+          {
+            "id": 12,
+            "name": "Carlos Luz",
+            "image": "https://placehold.co/600x400/2ecc71/ffffff?text=Eletricista+1",
+            "description": "Instalações elétricas residenciais.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "delivery": {
+    "title": "Delivery",
+    "image": "https://placehold.co/300x375/e74c3c/ffffff?text=Delivery",
+    "subcategories": {
+      "pizzarias": {
+        "title": "Pizzarias",
+        "listings": [
+          {
+            "id": 13,
+            "name": "Pizza Nostra",
+            "image": "https://placehold.co/600x400/e74c3c/ffffff?text=Pizza+1",
+            "description": "A melhor pizza da cidade.",
+            "phone": "5591989213312",
+            "isDelivery": true,
+            "pixInfo": "Chave PIX: 91989213312 (Celular)",
+            "products": [
+              {
+                "id": 101,
+                "name": "Pizza Calabresa",
+                "description": "Molho de tomate, calabresa fatiada, cebola e azeitonas.",
+                "price": 45,
+                "image": "https://placehold.co/100/e74c3c/ffffff?text=Calabresa"
+              },
+              {
+                "id": 102,
+                "name": "Pizza Marguerita",
+                "description": "Molho, mussarela, tomate em rodelas e manjericão fresco.",
+                "price": 42,
+                "image": "https://placehold.co/100/e74c3c/ffffff?text=Marguerita"
+              },
+              {
+                "id": 103,
+                "name": "Pizza Portuguesa",
+                "description": "Ovos, presunto, ervilha, cebola e mussarela.",
+                "price": 50,
+                "image": "https://placehold.co/100/e74c3c/ffffff?text=Portuguesa"
+              },
+              {
+                "id": 104,
+                "name": "Refrigerante 2L",
+                "description": "Coca-Cola, Guaraná ou Fanta.",
+                "price": 10,
+                "image": "https://placehold.co/100/e74c3c/ffffff?text=Refri"
+              }
+            ]
+          }
+        ]
+      },
+      "acai": {
+        "title": "Açaí",
+        "listings": [
+          {
+            "id": 14,
+            "name": "Açaí Power",
+            "image": "https://placehold.co/600x400/e74c3c/ffffff?text=Açaí+1",
+            "description": "Açaí, cupuaçu e cremes.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "eventos": {
+    "title": "Eventos",
+    "image": "https://placehold.co/300x375/f1c40f/ffffff?text=Eventos",
+    "subcategories": {
+      "festivais": {
+        "title": "Festivais",
+        "listings": [
+          {
+            "id": 15,
+            "name": "Festival de Verão",
+            "image": "https://placehold.co/600x400/f1c40f/ffffff?text=Festival+1",
+            "description": "Shows com artistas nacionais.",
+            "phone": "5591989213312",
+            "extraFields": [
+              {
+                "label": "Data",
+                "value": "15/01/2026"
+              },
+              {
+                "label": "Cronômetro",
+                "value": "2026-01-15T20:00"
+              }
+            ]
+          }
+        ]
+      },
+      "festas": {
+        "title": "Festas",
+        "listings": [
+          {
+            "id": 16,
+            "name": "Festa da Padroeira",
+            "image": "https://placehold.co/600x400/f1c40f/ffffff?text=Festa+1",
+            "description": "Evento tradicional com barracas.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "cavalgadas": {
+        "title": "Cavalgadas",
+        "listings": [
+          {
+            "id": 17,
+            "name": "Cavalgada dos Amigos",
+            "image": "https://placehold.co/600x400/f1c40f/ffffff?text=Cavalgada+1",
+            "description": "Passeio pelas trilhas da região.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "publicos": {
+    "title": "Serviços Públicos",
+    "image": "https://placehold.co/300x375/e67e22/ffffff?text=Públicos",
+    "subcategories": {
+      "prefeitura": {
+        "title": "Prefeitura",
+        "sectors": {
+          "gabinete": {
+            "title": "Gabinete do Prefeito",
+            "listings": [
+              {
+                "id": 18,
+                "name": "Paço Municipal",
+                "image": "https://placehold.co/600x400/e67e22/ffffff?text=Prefeitura",
+                "description": "Sede administrativa do município.",
+                "phone": "5591989213312"
+              }
+            ]
+          },
+          "administracao": {
+            "title": "Sec. de Administração",
+            "listings": [
+              {
+                "id": 21,
+                "name": "Centro Administrativo",
+                "image": "https://placehold.co/600x400/e67e22/ffffff?text=Admin",
+                "description": "Recursos humanos e licitações.",
+                "phone": "5591989213312"
+              }
+            ]
+          }
+        }
+      },
+      "saude": {
+        "title": "Saúde",
+        "listings": [
+          {
+            "id": 19,
+            "name": "Posto de Saúde Central",
+            "image": "https://placehold.co/600x400/e67e22/ffffff?text=Saúde",
+            "description": "Atendimento médico e vacinação.",
+            "phone": "5591989213312"
+          }
+        ]
+      },
+      "obras": {
+        "title": "Obras",
+        "listings": [
+          {
+            "id": 20,
+            "name": "Secretaria de Obras",
+            "image": "https://placehold.co/600x400/e67e22/ffffff?text=Obras",
+            "description": "Informações sobre obras na cidade.",
+            "phone": "5591989213312"
+          }
+        ]
+      }
+    }
+  },
+  "ads": [
+    {
+      "id": 1,
+      "image": "https://placehold.co/600x200/9b59b6/ffffff?text=Supermercado+Central",
+      "link": "comercio/supermercados/null/1"
+    }
+  ],
+  "version": "1.0",
+  "appSettings": {
+    "logoUrl": "",
+    "logoSize": 8,
+    "dataUrl": "https://gist.githubusercontent.com/NilAll/1c626219b33a76b88b6f7226f0b48450/raw/super-app-data.json"
+  }
+}
